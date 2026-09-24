@@ -1,6 +1,6 @@
 # Speakly
 
-A web-based speaking confidence coach for non-native English speakers, built as an MSc dissertation project (Queen Mary University of London). Speakly guides users through a structured reflection loop — recording a spoken response, listening to their own playback, rating their own confidence, and only then receiving AI-generated feedback — designed to build speaking confidence without linguistic correction.
+This project presents Speakly, a web-based speaking confidence coach for non-native English speakers, built as an MSc dissertation project (Queen Mary University of London). Speakly guides users through a structured reflection loop — recording a spoken response, listening to their own playback, rating their own confidence, and only then receiving AI-generated feedback — designed to build speaking confidence without linguistic correction.
 
 ## Tech Stack
 
