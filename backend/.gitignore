@@ -1,3 +1,10 @@
 venv/
 .env
 __pycache__/
+clear_demo_account.py
+force_clear_demo.py
+seed_demo_account.py
+test_demo_prompt.py
+test_ollama.py
+test_prompt_variants.py
+test_whisper.py
